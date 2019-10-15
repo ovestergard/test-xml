@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<top10webs>
+
+<aplicacion>
+    <nombre>netflix</nombre>
+<tipo>video</tipo>
+<descripcion>videoteca online</descripcion>
+</aplicacion>
+
+<aplicacion>
+<nombre>twich</nombre>
+<tipo>social</tipo>
+<descripcion>retransmision en directo</descripcion>
+</aplicacion>
+
+
+<aplicacion>
+<nombre>instagram</nombre>
+<tipo>social</tipo>
+<descripcion>red social</descripcion>
+</aplicacion>
+
+
+<aplicacion>
+<nombre>twitter</nombre>
+<tipo>social</tipo>
+<descripcion>red social</descripcion>
+</aplicacion>
+
+
+<aplicacion>
+<nombre>Gmail</nombre>
+<tipo>mensajeria</tipo>
+<descripcion>mensajeria elecrtonica</descripcion>
+</aplicacion>
+
+
+<aplicacion>
+<nombre>google chrome</nombre>
+<tipo>buscador</tipo>
+<descripcion>buscador de google</descripcion>
+</aplicacion>
+
+
+<aplicacion>
+<nombre>amazon</nombre>
+<tipo>compras</tipo>
+<descripcion>plataforma de compras online</descripcion>
+</aplicacion>
+
+
+<aplicacion>
+<nombre>youtube</nombre>
+<tipo>video</tipo>
+<descripcion>plataforma de videos online</descripcion>
+</aplicacion>
+
+
+<aplicacion>
+<nombre>whatsapp</nombre>
+<tipo>mensajeria</tipo>
+<descripcion>app de mensajeria telefonioca</descripcion>
+</aplicacion>
+
+
+<aplicacion>
+<nombre>skype</nombre>
+<tipo>mensajeria y video menssajeria</tipo>
+</aplicacion>
+
+</top10webs>
